@@ -1,4 +1,4 @@
-# ʜᴀʟᴏ ɴɢᴇᴇ 👋  ɢᴜᴀ ᴅʜɪʟ sɪ ᴧꝛᴧʙ <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="30px">
+# ʜᴀʟᴏ ɴɢᴇᴇ 👋  ɢᴜᴀ ᴅʜɪʟ sɪ ᴧꝛᴧʙ <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="60px">
 
 
 <!-- Your badges
