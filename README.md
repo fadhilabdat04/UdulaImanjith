@@ -5,6 +5,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 <p><img align="center" src="https://dl.kaskus.id/i697.photobucket.com/albums/vv340/aumkanyakant/welcome.gif"/></a>
+
 -  ♻️‍ &nbsp; My Telegram : t.me/Arabnihnge  <br>
 -  ♻️ Cuman ikut-ikutan aja kek orang-orang bre  <br>
 -  ♻️ Yah Jangan Ngarep Lebih Bukan Devs Blog !
