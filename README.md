@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 ## 📲 Kontak Developer
-![Profile Dilihat](https://komarev.com/ghpvc/?username=apisuserbot&color=blue&style=plastic&label=Profile+Dilihat)
+![Profile Dilihat](https://komarev.com/ghpvc/{fadhilabdat04}=apisuserbot&color=blue&style=plastic&label=Profile+Dilihat)
 <br>
 
 <br>
