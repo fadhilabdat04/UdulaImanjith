@@ -9,8 +9,7 @@ You can use the website to generate badges: https://shields.io/
 -  ♻️ Cuman ikut-ikutan aja kek orang-orang bre  <br>
 -  ♻️ Yah Jangan Ngarep Lebih Bukan Devs Blog !
 
- **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{fadhilabdat04}/count.svg)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ᴍʏ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
 <p>
@@ -20,3 +19,9 @@ You can use the website to generate badges: https://shields.io/
     <a href="https://instagram.com/mrismanaziz_" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
     <a href="https://twitter.com/mrismanaziz" target="blank"><img src="https://img.icons8.com/nolan/55/twitter.png" /></a>
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+ **Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{fadhilabdat04}/count.svg)
